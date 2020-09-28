@@ -1,0 +1,30 @@
+main{
+    display: block;
+}
+  #mapid {
+    height: 400px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    padding: 10px;
+}
+.zone1 {
+    background-color: wheat;
+    display: block;
+    padding: 10px;
+  }
+  .zone2 {
+    background-color: rgb(221, 198, 198);
+    display: block;
+    padding: 10px;
+  }
+  .zone3 {
+    background-color: rgb(214, 214, 214);
+    display: block;
+    padding: 10px;
+  }
+  .zone4 {
+    background-color: violet;
+    display:
+    padding: 10px;
+  }
